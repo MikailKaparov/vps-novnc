@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://luxury-childrens-mods-oliver.trycloudflare.com/vnc.html
+URL       : https://institute-limited-replaced-salaries.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-05-27 08:45:25
+Created   : 2026-05-27 12:58:52
 =======================================================
