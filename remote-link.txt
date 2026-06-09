@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://part-labor-surprised-vice.trycloudflare.com/vnc.html
+URL       : https://basics-associates-flags-position.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-09 12:46:04
+Created   : 2026-06-09 17:31:02
 =======================================================
