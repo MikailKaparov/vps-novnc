@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://route-tale-naples-mem.trycloudflare.com/vnc.html
+URL       : https://mesa-area-fridge-hey.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-14 08:46:15
+Created   : 2026-06-14 12:06:50
 =======================================================
