@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://arc-mentioned-meets-cologne.trycloudflare.com/vnc.html
+URL       : https://mere-contract-wise-broke.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-15 15:53:57
+Created   : 2026-06-15 22:25:41
 =======================================================
