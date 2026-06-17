@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nowhere-developments-discounted-ecommerce.trycloudflare.com/vnc.html
+URL       : https://bio-contribute-rural-pos.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 09:57:26
+Created   : 2026-06-17 13:49:48
 =======================================================
