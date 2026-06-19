@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://manufacturers-bubble-scripting-onto.trycloudflare.com/vnc.html
+URL       : https://champagne-find-physicians-fri.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-18 22:22:41
+Created   : 2026-06-19 05:04:36
 =======================================================
