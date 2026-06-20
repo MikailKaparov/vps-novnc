@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://seek-fancy-diagnostic-retail.trycloudflare.com/vnc.html
+URL       : https://salem-outlets-rich-pix.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 21:16:43
+Created   : 2026-06-20 04:17:34
 =======================================================
