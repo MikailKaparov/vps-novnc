@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://patio-acts-bathroom-ethnic.trycloudflare.com/vnc.html
+URL       : https://degrees-immediate-flame-bases.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-24 21:30:48
+Created   : 2026-06-25 04:10:45
 =======================================================
