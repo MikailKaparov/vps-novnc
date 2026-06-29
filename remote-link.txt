@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://following-cross-freedom-printing.trycloudflare.com/vnc.html
+URL       : https://levy-conditional-friday-resulting.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-29 09:56:03
+Created   : 2026-06-29 14:14:00
 =======================================================
