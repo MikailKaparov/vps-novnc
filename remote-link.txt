@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mba-alternatively-cole-pets.trycloudflare.com/vnc.html
+URL       : https://prince-assurance-instructor-search.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 04:04:55
+Created   : 2026-07-05 08:08:38
 =======================================================
