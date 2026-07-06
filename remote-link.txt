@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://comp-shepherd-democracy-interest.trycloudflare.com/vnc.html
+URL       : https://alive-welcome-adjacent-tennessee.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-06 13:56:28
+Created   : 2026-07-06 17:51:00
 =======================================================
