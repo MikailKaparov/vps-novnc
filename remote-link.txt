@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://discipline-voluntary-criticism-advertisements.trycloudflare.com/vnc.html
+URL       : https://glossary-departments-rapidly-lead.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-22 21:19:17
+Created   : 2026-07-23 03:30:01
 =======================================================
