@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://grow-incomplete-hughes-intranet.trycloudflare.com/vnc.html
+URL       : https://shows-surf-oakland-proceeding.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-26 21:06:42
+Created   : 2026-07-27 03:44:30
 =======================================================
