@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://julian-tiles-plant-was.trycloudflare.com/vnc.html
+URL       : https://hamilton-abilities-expected-sword.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-28 12:04:07
+Created   : 2026-07-28 16:47:46
 =======================================================
