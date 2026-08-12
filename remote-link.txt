@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://limitation-amy-last-pharmaceutical.trycloudflare.com/vnc.html
+URL       : https://machines-adds-shoot-development.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 16:05:15
+Created   : 2026-08-12 20:55:38
 =======================================================
