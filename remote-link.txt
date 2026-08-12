@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://weights-ribbon-earrings-beyond.trycloudflare.com/vnc.html
+URL       : https://notices-hip-cincinnati-magnetic.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-12 06:21:31
+Created   : 2026-08-12 11:05:44
 =======================================================
