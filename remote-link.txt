@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chapel-buys-eds-care.trycloudflare.com/vnc.html
+URL       : https://locations-due-sends-bold.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-29 15:01:14
+Created   : 2026-08-29 18:25:17
 =======================================================
