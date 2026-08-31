@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://thousand-procurement-meets-geographic.trycloudflare.com/vnc.html
+URL       : https://egg-desert-amended-making.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-31 11:34:31
+Created   : 2026-08-31 20:46:33
 =======================================================
