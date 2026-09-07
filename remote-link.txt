@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://workforce-install-freight-scott.trycloudflare.com/vnc.html
+URL       : https://shopping-news-circles-cups.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 04:05:01
+Created   : 2026-09-07 10:05:41
 =======================================================
