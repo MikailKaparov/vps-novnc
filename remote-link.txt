@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://spec-clouds-christopher-ownership.trycloudflare.com/vnc.html
+URL       : https://block-minnesota-remain-committees.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 14:21:14
+Created   : 2026-09-18 22:28:12
 =======================================================
