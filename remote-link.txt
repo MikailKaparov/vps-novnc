@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://interim-beyond-precisely-restaurants.trycloudflare.com/vnc.html
+URL       : https://bridges-partners-proteins-kitchen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-07 17:23:57
+Created   : 2026-10-08 00:08:16
 =======================================================
