@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://browsing-theory-sporting-treatment.trycloudflare.com/vnc.html
+URL       : https://industry-subsequent-rental-submit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 22:09:42
+Created   : 2026-10-18 04:08:52
 =======================================================
